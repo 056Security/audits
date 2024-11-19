@@ -2,7 +2,7 @@
 ![Screenshot_2024-11-19_at_19 51 57 (1)](https://github.com/user-attachments/assets/75c69760-53b2-4784-b56e-850d2651711f)
 
 # About Us
-We are a duo of smart contract security researchers, providing the best service possible to protocols. We have achieved multiple top places on security contests, uncovering over 30 H/M severity vulnerabilities across 10+ audits.
+We are a duo of smart contract security researchers, providing the best service possible to web3 protocols. We have achieved multiple top places on security contests, uncovering over 30 H/M severity vulnerabilities across 10+ audits securing millions of dollars.
 
 ## Book us
 
