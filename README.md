@@ -10,7 +10,7 @@ If you have any questions or are seeking a security review for your project, fee
 
 - Twitter - [**stanchev**](https://twitter.com/stanchev_33) / [**0xb0k0**](https://twitter.com/bo4ka7a)
 - Telegram - [**stanchev**](https://t.me/stanchev_33) / [**0xb0k0**](https://t.me/borko95)
-- Discord - [**stanchev**](https://discordapp.com/users/263383171058499585) / [**0xb0k0**](https://discordapp.com/users/215564246786768896)
+- Discord - [**stanchev**]() / [**0xb0k0**]()
 
 ## Our Work
 
@@ -18,9 +18,9 @@ If you have any questions or are seeking a security review for your project, fee
 
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
-| 3     | [Ethos](https://x.com/ethos_network) |  Vouch  | 1M  |            | 11.2024    |
-| 2     | [Ethos](https://x.com/ethos_network) |  Reputation Market | 4C  |            | 11.2024    |
-| 1     | [Ethos](https://x.com/ethos_network) |  ERC4626, Vouch | 5C  |            | 11.2024    |
+| 3     | [Ethos](https://x.com/ethos_network) |  Vouch  |   |            | 11.2024    |
+| 2     | [Ethos](https://x.com/ethos_network) |  Reputation Market |  |            | 11.2024    |
+| 1     | [Ethos](https://x.com/ethos_network) |  ERC4626, Vouch |  |            | 11.2024    |
 
 ### Public Competitions
 
