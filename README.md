@@ -1,8 +1,8 @@
-# 056Security
-![Screenshot_2024-11-19_at_19 51 57 (1)](https://github.com/user-attachments/assets/75c69760-53b2-4784-b56e-850d2651711f)
+
+![056Security_LOGO A1](https://github.com/user-attachments/assets/5bff408d-8d42-4ecd-bebc-7cab86822558)
 
 # About Us
-We are a duo of smart contract security researchers, providing the best service possible to web3 protocols. We have achieved multiple top places on security contests, uncovering over 40 H/M severity vulnerabilities across 15+ audits securing millions of dollars.
+We are a duo of smart contract security researchers, providing the best service possible for web3 protocols. We have achieved multiple top places in security contests, uncovering over 40 H/M severity vulnerabilities across 15+ audits securing millions of dollars.
 
 ## Book us
 
