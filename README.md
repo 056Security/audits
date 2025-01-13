@@ -18,9 +18,7 @@ If you have any questions or are seeking a security review for your project, fee
 
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
-| 3     | [Ethos](https://x.com/ethos_network) |  Vouching market V2, Slasher| [Soon]()  |  [Soon]()          | 11.2024    |
-| 2     | [Ethos](https://x.com/ethos_network) |  Reputation Market V1|[Soon]()  |   [Soon]()         | 11.2024    |
-| 1     | [Ethos](https://x.com/ethos_network) |  Vouching market V1 (integrated with ERC4626 vault)| [Soon]() |     [Soon]()       | 11.2024    |
+| 1     | [Ethos](https://x.com/ethos_network) | Ethos Financial Contracts V1| [Soon]() |     [Soon]()       | 11.2024    |
 
 ### Public Competitions
 
