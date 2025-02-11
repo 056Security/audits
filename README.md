@@ -24,7 +24,12 @@ If you have any questions or are seeking a security review for your project, fee
 
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
-| 10    | [Gamma Brevis Rewarder]()      |          | 1H (Top 3) | [Soon]()           | 10.2024    |
+| 10    | [Gamma Brevis Rewarder]()      |     Protocol for active liquidity management     | 1H (Top 3) | [Soon]()           | 10.2024    |
+| 14    | [Gamma Brevis Rewarder]()      |     Protocol for active liquidity management     | 1H (Top 3) | [Soon]()           | 10.2024    |
+| 13    | [Gamma Brevis Rewarder]()      |     Protocol for active liquidity management     | 1H (Top 3) | [Soon]()           | 10.2024    |
+| 12    | [Gamma Brevis Rewarder]()      |     Protocol for active liquidity management     | 1H (Top 3) | [Soon]()           | 10.2024    |
+| 11    | [StakeUp]()      |    Fully Composable USDC LST     | 1H 1M| [Soon]()           | 09.2024    |
+| 10    | [Royco]()      |    The Incentivized Action Market (IAM) Protocol     | 1H 1M | [Soon]()           | 09.2024    |
 | 9     | [Chakra](https://code4rena.com/audits/2024-08-chakra) |    The first Modular Settlement Network      | 1H, 2M       | [Soon]()           | 08.2024 |
 | 8     | [Fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) |    Platform that specialises in connecting innovative projects with engaged backers      | 1M (Top 20) | [Open](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=report)           | 08.2024 |
 | 7     | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) |    Pre-market infrastructure facilitating the bridging of liquidity between primary and secondary financial markets      | 9H, 1L (Top 10) | [Open](https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=contest&sc=reward&sj=reward&page=1&t=report)           | 08.2024 |
