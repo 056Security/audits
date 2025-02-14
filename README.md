@@ -25,10 +25,10 @@ If you have any questions or are seeking a security review for your project, fee
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
 | 16    | [Oku]()      |   CeFi order types to DeFi     | 1H,1M | [Soon]()           | 12.2024    |
-| 15    | [Superfluid]()      |    Money Streaming Protocol     | 1H (Top 5) | [Soon]()           | 11.2024    |
-| 14    | [vVv]()      |     Launchpad - Investments & Token distribution    | 1H (Top 1) | [Soon]()           | 11.2024    |
+| 15    | [Superfluid]()      |    Money Streaming Protocol     | 1H (Top 5 🏆) | [Soon]()           | 11.2024    |
+| 14    | [vVv]()      |     Launchpad - Investments & Token distribution    | 1H (Top 1 🏆) | [Soon]()           | 11.2024    |
 | 13    | [Ethos](https://x.com/ethos_network)    |     Ethos Social Contracts| 1M (Top 10) |     [Soon]()       | 10.2024    |
-| 12    | [Gamma Brevis Rewarder]()      |     Protocol for active liquidity management     | 1H (Top 3) | [Soon]()           | 10.2024    |
+| 12    | [Gamma Brevis Rewarder]()      |     Protocol for active liquidity management     | 1H (Top 3 🏆) | [Soon]()           | 10.2024    |
 | 11    | [StakeUp]()      |    Fully Composable USDC LST     | 1H, 1M| [Soon]()           | 09.2024    |
 | 10    | [Royco]()      |    The Incentivized Action Market (IAM) Protocol     | 1H, 1M | [Soon]()           | 09.2024    |
 | 9     | [Chakra](https://code4rena.com/audits/2024-08-chakra) |    The first Modular Settlement Network      | 1H, 2M       | [Soon]()           | 08.2024 |
