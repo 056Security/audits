@@ -18,7 +18,7 @@ If you have any questions or are seeking a security review for your project, fee
 
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
-| 1     | [Ethos](https://x.com/ethos_network) | Ethos Financial Contracts V1| 4C,2H,4M |     [Soon](https://github.com/056Security/audits/blob/main/private/Ethos-security-review.pdf)       | 11.2024    |
+| 1     | [Ethos](https://x.com/ethos_network) | Ethos Financial Contracts V1| 4C,2H,4M |     [Open](https://github.com/056Security/audits/blob/main/private/Ethos-security-review.pdf)       | 11.2024    |
 
 ### Public Competitions
 
