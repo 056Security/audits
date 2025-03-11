@@ -24,6 +24,12 @@ If you have any questions or are seeking a security review for your project, fee
 
 |    | **Protocol** | Type | Findings | Report | Date |
 |:--:|-----------------|:----------------:|:------------------:|:------------------:|:------------------------:|
+| 22    | [Rova]()      |   Launchpad      | 1M (Top 3 🏆) | [Soon]()           | 02.2025    |
+| 21    | [IQ AI]()      |   Tokenized agents for DeFi      | private | [Soon]()           | 01.2025    |
+| 20    | [Liquid Ron]()      |   Automate user staking actions and unlocks your liquidity for RON     | private | [Soon]()           | 01.2025    |
+| 19    | [Plazza Finance]()      |   Bonds and Leverage on Base     | 2H,5M | [Soon]()           | 01.2025    |
+| 18    | [SecondSwap]()      |   Unlocking liquidity for illiquid assets     | 1H,1M | [Soon]()           | 12.2024    |
+| 17    | [Lambo.Win]()      |   Launchpad     | 1H | [Soon]()           | 12.2024    |
 | 16    | [Oku]()      |   CeFi order types to DeFi     | 1H,1M | [Soon]()           | 12.2024    |
 | 15    | [Superfluid]()      |    Money Streaming Protocol     | 1H (Top 5 🏆) | [Soon]()           | 11.2024    |
 | 14    | [vVv]()      |     Launchpad - Investments & Token distribution    | 1H (Top 1 🏆) | [Soon]()           | 11.2024    |
